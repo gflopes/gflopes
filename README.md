@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gflopes22](https://medium.com/@gflopes22)
 
-- 💬 Ask me about **Java,Spring, Oracle, SQLServer**
+- 💬 Ask me about **Java, Spring, Apache Camel, Microservices, RESTful API, Openshift, EIP, Oracle, SQLServer, MySQL**
 
 - 📫 How to reach me **gflopes22@gmail.com**
 
